@@ -1,4 +1,4 @@
-​---
+---
 layout: post
 title: "可能是最全面的github pages搭建个人博客教程"
 date:   2019-11-22
@@ -6,8 +6,7 @@ tags: [geek]
 comments: true
 author: lemonchann
 toc: true
-
-​---
+---
 
 作为一个程序员怎么能没有自己的个人博客呢，这里详细记录和分享我的博客搭建经验，让你轻轻松松拥有自己的博客网站。傻瓜式一站式教你用 github pages 来搭建博客，详细记录全过程，保证你能学会。
 
@@ -416,4 +415,3 @@ _include/svg-icons.html生成社交头像的链接
 **我的个人技术公众号「后端技术学堂」分享、记录、成长，扫码添加，一起学习，共同成长。**
 
 ![公众号二维码](https://upload-images.jianshu.io/upload_images/7842464-15f939ec039690f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
----
